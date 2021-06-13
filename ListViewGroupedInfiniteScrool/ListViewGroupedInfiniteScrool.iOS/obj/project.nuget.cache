@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jaVEifETVEYxQWrHG/HXuOmYZvDc27aeyQ/NAknBJPpPKKoMaZm3xsrlRLK0Cac8fRz108m+zZ4vXIoe9DANKA==",
+  "success": true,
+  "projectFilePath": "/Users/hrcoffee2/Projects/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.iOS/ListViewGroupedInfiniteScrool.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/hrcoffee2/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/hrcoffee2/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/hrcoffee2/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
