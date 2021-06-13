@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="ListViewGroupedInfiniteScrool.MainPage"
+    xmlns:viewModels="clr-namespace:ListViewGroupedInfiniteScrool.ViewModels"
+    x:DataType="viewModels:MainPageViewModel"
+    Title="ListView Grouped Infinite Scrool">
+
+    <StackLayout
+        Margin="3">
+
+        <ListView
+            IsRefreshing="{Binding IsRefresh, Mode=OneWay}"
+            RefreshCommand="{Binding RefreshListView}"
+            ItemAppearing="listView_ItemAppearing"
+             IsPullToRefreshEnabled="True"
+                HasUnevenRows="True"
+                SelectionMode="None"
+            IsGroupingEnabled="True"
+            SeparatorVisibility="Default"
+            CachingStrategy="RecycleElement"
+            ItemsSource="{Binding ItemsList}"
+            GroupDisplayBinding="{Binding Name}"
+            GroupShortNameBinding="{Binding ShortName}">
+
+            <ListView.GroupHeaderTemplate>
+                <DataTemplate
+                    x:DataType="viewModels:ItemGroupViewModel">
+                    <ViewCell>
+                        <Label
+                            Margin="5"
+                            HorizontalOptions="Center"
+                            VerticalOptions="Center"
+                            Text="{Binding Name}"
+                            TextColor="Black">
+                        </Label>
+                    </ViewCell>
+                    
+                </DataTemplate>
+            </ListView.GroupHeaderTemplate>
+
+            
+                <ListView.ItemTemplate>
+                    <DataTemplate
+                        x:DataType="viewModels:ItemViewModel">
+                        <ViewCell>
+                            <Label
+                                Margin="5"
+                                HorizontalOptions="Center"
+                                VerticalOptions="Center"
+                                Text="{Binding Num}"
+                                TextColor="Black">
+                            </Label>
+                        </ViewCell>
+                        
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+
+                <ListView.Footer>
+                    <StackLayout
+                        IsVisible="{Binding IsLoadingMore}"
+                        Padding="10"
+                        HorizontalOptions="Center">
+
+                        <ActivityIndicator
+                            Scale="1.5"
+                            IsRunning="True"
+                            Color="Orange"/>
+
+                    </StackLayout>
+                </ListView.Footer>
+
+
+        </ListView> 
+
+    </StackLayout>
+     
+    
+</ContentPage>

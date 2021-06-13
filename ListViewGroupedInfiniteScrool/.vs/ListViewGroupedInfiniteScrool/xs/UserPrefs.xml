@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{4D1061AD-13E8-4A74-B113-C36B13F06B84}|Default">
+  <MonoDevelop.Ide.ItemProperties.ListViewGroupedInfiniteScrool.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.07adc3c2" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListViewGroupedInfiniteScrool" expanded="True">
+            <Node name="ListViewGroupedInfiniteScrool" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="MainPage.xaml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="ListViewGroupedInfiniteScrool" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ListViewGroupedInfiniteScrool.iOS Xamarin.HotReload.UnhandledDeviceException.ListViewGroupedInfiniteScrool.iOS.HideInfoBar="True" Xamarin.HotReload.DebuggerTimeoutException.ListViewGroupedInfiniteScrool.iOS.HideInfoBar="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.09A2F3F6-5139-4390-93C9-C3DC592F1E2C" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

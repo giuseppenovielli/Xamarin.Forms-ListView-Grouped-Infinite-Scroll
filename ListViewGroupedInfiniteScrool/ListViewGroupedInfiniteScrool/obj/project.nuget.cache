@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "TOH2gzNn0y9GQ1N+O+FrZHfGL6wUEuYhU8Sj9jIMspAjbJJvJ0dx0pC35FtyYhGQlRH/40odlj1t8/tQt7a9Kw==",
+  "success": true,
+  "projectFilePath": "/Users/hrcoffee2/Projects/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.csproj",
+  "expectedPackageFiles": [
+    "/Users/hrcoffee2/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/hrcoffee2/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/hrcoffee2/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/hrcoffee2/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/hrcoffee2/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
