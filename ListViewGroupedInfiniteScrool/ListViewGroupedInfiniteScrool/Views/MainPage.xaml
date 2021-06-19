@@ -11,10 +11,8 @@
         Margin="3">
 
         <ListView
-            IsRefreshing="{Binding IsRefresh, Mode=OneWay}"
-            RefreshCommand="{Binding RefreshListView}"
             ItemAppearing="listView_ItemAppearing"
-             IsPullToRefreshEnabled="True"
+             IsPullToRefreshEnabled="False"
                 HasUnevenRows="True"
                 SelectionMode="None"
             IsGroupingEnabled="True"
@@ -56,21 +54,6 @@
                         
                     </DataTemplate>
                 </ListView.ItemTemplate>
-
-                <ListView.Footer>
-                    <StackLayout
-                        IsVisible="{Binding IsLoadingMore}"
-                        Padding="10"
-                        HorizontalOptions="Center">
-
-                        <ActivityIndicator
-                            Scale="1.5"
-                            IsRunning="True"
-                            Color="Orange"/>
-
-                    </StackLayout>
-                </ListView.Footer>
-
 
         </ListView> 
 

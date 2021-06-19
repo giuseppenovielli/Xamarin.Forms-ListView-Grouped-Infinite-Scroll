@@ -17,14 +17,6 @@ namespace ListViewGroupedInfiniteScrool.ViewModels
         {
             ItemsList = new ObservableCollection<ItemGroupViewModel>();
 
-            RefreshListView = new Command(execute: async (obj) =>
-            {
-                ItemsList.Clear();
-
-                await GetItems();
-
-
-            });
 
             _ = GetItems();
         }
@@ -82,6 +74,14 @@ namespace ListViewGroupedInfiniteScrool.ViewModels
                     lastGroupedList.Add(InstanceCell(i));
                 }
             }
+
+            LoadingComplete();
+            
+        }
+
+        void LoadingComplete()
+        {
+            ItemsList = ItemsList;
 
             IsLoadingMore = false;
             IsRefresh = false;
