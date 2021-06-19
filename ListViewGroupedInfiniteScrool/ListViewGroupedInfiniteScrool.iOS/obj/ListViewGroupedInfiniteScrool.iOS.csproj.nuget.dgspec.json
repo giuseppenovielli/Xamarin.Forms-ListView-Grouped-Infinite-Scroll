@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hrcoffee2/Projects/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.iOS/ListViewGroupedInfiniteScrool.iOS.csproj": {}
+    "/Users/hrcoffee2/Xamarin.Forms-ListView-Grouped-Infinite-Scroll-main/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.iOS/ListViewGroupedInfiniteScrool.iOS.csproj": {}
   },
   "projects": {
-    "/Users/hrcoffee2/Projects/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.iOS/ListViewGroupedInfiniteScrool.iOS.csproj": {
+    "/Users/hrcoffee2/Xamarin.Forms-ListView-Grouped-Infinite-Scroll-main/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.iOS/ListViewGroupedInfiniteScrool.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hrcoffee2/Projects/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.iOS/ListViewGroupedInfiniteScrool.iOS.csproj",
+        "projectUniqueName": "/Users/hrcoffee2/Xamarin.Forms-ListView-Grouped-Infinite-Scroll-main/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.iOS/ListViewGroupedInfiniteScrool.iOS.csproj",
         "projectName": "ListViewGroupedInfiniteScrool.iOS",
-        "projectPath": "/Users/hrcoffee2/Projects/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.iOS/ListViewGroupedInfiniteScrool.iOS.csproj",
+        "projectPath": "/Users/hrcoffee2/Xamarin.Forms-ListView-Grouped-Infinite-Scroll-main/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.iOS/ListViewGroupedInfiniteScrool.iOS.csproj",
         "packagesPath": "/Users/hrcoffee2/.nuget/packages/",
-        "outputPath": "/Users/hrcoffee2/Projects/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.iOS/obj/",
+        "outputPath": "/Users/hrcoffee2/Xamarin.Forms-ListView-Grouped-Infinite-Scroll-main/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.iOS/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -27,8 +27,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "/Users/hrcoffee2/Projects/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.csproj": {
-                "projectPath": "/Users/hrcoffee2/Projects/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.csproj"
+              "/Users/hrcoffee2/Xamarin.Forms-ListView-Grouped-Infinite-Scroll-main/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.csproj": {
+                "projectPath": "/Users/hrcoffee2/Xamarin.Forms-ListView-Grouped-Infinite-Scroll-main/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.csproj"
               }
             }
           }
@@ -60,14 +60,14 @@
         }
       }
     },
-    "/Users/hrcoffee2/Projects/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.csproj": {
+    "/Users/hrcoffee2/Xamarin.Forms-ListView-Grouped-Infinite-Scroll-main/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hrcoffee2/Projects/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.csproj",
+        "projectUniqueName": "/Users/hrcoffee2/Xamarin.Forms-ListView-Grouped-Infinite-Scroll-main/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.csproj",
         "projectName": "ListViewGroupedInfiniteScrool",
-        "projectPath": "/Users/hrcoffee2/Projects/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.csproj",
+        "projectPath": "/Users/hrcoffee2/Xamarin.Forms-ListView-Grouped-Infinite-Scroll-main/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.csproj",
         "packagesPath": "/Users/hrcoffee2/.nuget/packages/",
-        "outputPath": "/Users/hrcoffee2/Projects/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool/obj/",
+        "outputPath": "/Users/hrcoffee2/Xamarin.Forms-ListView-Grouped-Infinite-Scroll-main/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

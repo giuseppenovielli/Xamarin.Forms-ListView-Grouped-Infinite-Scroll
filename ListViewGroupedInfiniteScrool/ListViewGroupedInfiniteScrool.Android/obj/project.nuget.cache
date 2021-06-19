@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P8X98ISLiITkHxdb0hBab3f/tmWIyeZnmdEwDmXwSLSFIxiGxcmZjDARfanYCxCz+Q9IfEBLviK5ZV32xX6Zkw==",
+  "dgSpecHash": "EtHdKgB76KivIg2cWQRUyhcDq+4xmqfZB4U+FmreFeUVwxRjihAZN/iobUphiHokFAeQU4FZrC7+4o8epNyZRQ==",
   "success": true,
-  "projectFilePath": "/Users/hrcoffee2/Projects/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.Android/ListViewGroupedInfiniteScrool.Android.csproj",
+  "projectFilePath": "/Users/hrcoffee2/Xamarin.Forms-ListView-Grouped-Infinite-Scroll-main/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.Android/ListViewGroupedInfiniteScrool.Android.csproj",
   "expectedPackageFiles": [
     "/Users/hrcoffee2/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/hrcoffee2/.nuget/packages/xamarin.androidx.activity/1.1.0.5/xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

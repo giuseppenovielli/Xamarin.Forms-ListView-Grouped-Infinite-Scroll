@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TOH2gzNn0y9GQ1N+O+FrZHfGL6wUEuYhU8Sj9jIMspAjbJJvJ0dx0pC35FtyYhGQlRH/40odlj1t8/tQt7a9Kw==",
+  "dgSpecHash": "URv+qHs80eJcKYNzy/BfsstilHkfztJ0ieOeO4tqnySuzq93MT3bBRxPBBjDIppANSHXHX31QrpwvUV2x73pdA==",
   "success": true,
-  "projectFilePath": "/Users/hrcoffee2/Projects/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.csproj",
+  "projectFilePath": "/Users/hrcoffee2/Xamarin.Forms-ListView-Grouped-Infinite-Scroll-main/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.csproj",
   "expectedPackageFiles": [
     "/Users/hrcoffee2/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/hrcoffee2/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",

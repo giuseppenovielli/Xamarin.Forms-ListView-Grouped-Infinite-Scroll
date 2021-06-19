@@ -540,11 +540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hrcoffee2/Projects/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.csproj",
+      "projectUniqueName": "/Users/hrcoffee2/Xamarin.Forms-ListView-Grouped-Infinite-Scroll-main/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.csproj",
       "projectName": "ListViewGroupedInfiniteScrool",
-      "projectPath": "/Users/hrcoffee2/Projects/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.csproj",
+      "projectPath": "/Users/hrcoffee2/Xamarin.Forms-ListView-Grouped-Infinite-Scroll-main/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool.csproj",
       "packagesPath": "/Users/hrcoffee2/.nuget/packages/",
-      "outputPath": "/Users/hrcoffee2/Projects/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool/obj/",
+      "outputPath": "/Users/hrcoffee2/Xamarin.Forms-ListView-Grouped-Infinite-Scroll-main/ListViewGroupedInfiniteScrool/ListViewGroupedInfiniteScrool/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
